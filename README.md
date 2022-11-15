@@ -1,4 +1,7 @@
-# NYU_Marketing_Analytics_ABTesting
+# NYU Marketing Analytics
+
+This repo is for Marketing Analytics course. 
+
 ## Team Members:
 Jingyun Althea Liu (jl14308@nyu.edu)
 
