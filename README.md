@@ -1,6 +1,6 @@
 # NYU Marketing Analytics
 
-This repo is for Marketing Analytics course. 
+This repo is for Marketing Analytics 2022 Fall, NYU DABC. 
 
 ## Team Members:
 Jingyun Althea Liu (jl14308@nyu.edu)
